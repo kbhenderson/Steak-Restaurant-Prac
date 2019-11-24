@@ -1,0 +1,19 @@
+@import "reset";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+@import "variables";
+@import "grid";
+@import "Header";
+@import "Topimg";
+@import "OurStory";
+@import "SpecialMenu";
+@import "RandomQoute";
+@import "ContactUs";
+@import "Reviews";
+@import "Global";
+
+
+
+body {
+  font-family: $textFont;
+  //background: purple;
+}
